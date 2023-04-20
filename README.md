@@ -3,5 +3,5 @@ Exemplo de preenchimento automático quando um input é utilizado como parâmetr
 
 o arquivo index possui os campos de input declarados dessa mnaneira: 
 
-"<input type="text" name="codCidade" id="code" placeholder="Cód. Cidade*" required>"
-"<input type="text" name="cidade" id="cidade" , placeholder="Cidade">"
+*<input type="text" name="codCidade" id="code" placeholder="Cód. Cidade*" required>*
+*<input type="text" name="cidade" id="cidade" , placeholder="Cidade">*
