@@ -7,7 +7,7 @@ $(document).ready(function () {
         var codigo  = $(this).val();
 
         //coletamos o retorno do arquivo de busca, o valor do campo
-        $.getJSON('busca.php', {codigo},
+        $.getJSON('buscaCidade.php', {codigo},
             //e dispara a função que preenche o campo
             function(retorno) {
                 //insere o valor recebido na posição .cidade
